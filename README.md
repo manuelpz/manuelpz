@@ -1,7 +1,8 @@
 #  ¡Hola a todos!👋
-Me llamo Manuel 🤝 Actualmente trabajo como desarrollador back-end, aunque me apasiona el front y puedo hacer muy buen trabajo también! 🧑‍💻
 
 ![Imagen de perfil](https://github.com/manuelpz/manuelpz/assets/79914099/99219f93-1e5e-4e0e-b40e-c61ffce0f9e5)
+
+Me llamo Manuel 🤝 Actualmente trabajo como desarrollador back-end, aunque me apasiona el front y puedo hacer muy buen trabajo también! 🧑‍💻
 
 
 <!--
